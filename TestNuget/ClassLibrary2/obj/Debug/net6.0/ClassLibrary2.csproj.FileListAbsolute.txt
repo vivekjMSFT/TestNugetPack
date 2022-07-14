@@ -1,0 +1,12 @@
+D:\PMEC\A4O\TestNuget\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+D:\PMEC\A4O\TestNuget\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+D:\PMEC\A4O\TestNuget\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.AssemblyReference.cache
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+D:\PMEC\A4O\TestNuget\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll

@@ -1,0 +1,17 @@
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\dummyNuget.deps.json
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\dummyNuget.dll
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\dummyNuget.pdb
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\ClassLibrary1.dll
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\ClassLibrary2.dll
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\ClassLibrary1.pdb
+D:\PMEC\A4O\TestNuget\dummyNuget\bin\Debug\net6.0\ClassLibrary2.pdb
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.csproj.AssemblyReference.cache
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.GeneratedMSBuildEditorConfig.editorconfig
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.AssemblyInfoInputs.cache
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.AssemblyInfo.cs
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.csproj.CoreCompileInputs.cache
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.csproj.CopyComplete
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.dll
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\refint\dummyNuget.dll
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\dummyNuget.pdb
+D:\PMEC\A4O\TestNuget\dummyNuget\obj\Debug\net6.0\ref\dummyNuget.dll
